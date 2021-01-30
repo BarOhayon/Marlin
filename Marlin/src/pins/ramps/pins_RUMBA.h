@@ -51,7 +51,7 @@
 #define Y_MIN_PIN                             35
 #define Y_MAX_PIN                             34
 #define Z_MIN_PIN                             33
-#define Z_MAX_PIN                             32
+#define FIL_RUNOUT_PIN                             32
 
 //
 // Z Probe (when not Z_MIN_PIN)
